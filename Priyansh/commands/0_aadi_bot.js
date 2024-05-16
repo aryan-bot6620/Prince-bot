@@ -48,7 +48,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("️️️𝐓𝐢𝐫𝐜𝐡𝐢 𝐧𝐚𝐳𝐚𝐫𝐢𝐲𝐚 𝐦𝐨𝐫𝐢 𝐡𝐚𝐚𝐲𝐞 𝐡𝐚𝐚𝐲𝐞 𝐡𝐚𝐚𝐲𝐞 🙈", threadID);
    };
   
-  if ((event.body.toLowerCase() == "Babu") || (event.body.toLowerCase() == "Baby")) {
+  if ((event.body.toLowerCase() == "BAbu") || (event.body.toLowerCase() == "BAby")) {
      return api.sendMessag("𝐇𝐌𝐌 𝐁𝐀𝐁𝐘 😘😗", threadID);
    };
 
@@ -72,8 +72,8 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("Haaye Rabba inna pyar🙊🙊", threadID);
    };
 
-   if ((event.body.toLowerCase() == "kaisi ho aap") || (event.body.toLowerCase() == "kaise ho") || (event.body.toLowerCase() == "kaise ho aap") || (event.body.toLowerCase() == "how are you") || (event.body.toLowerCase() == "how are you?")) {
-     return api.sendMessage("𝐌 𝐓𝐀𝐁𝐇𝐈 𝐀𝐂𝐂𝐇𝐀 𝐇𝐎𝐓𝐀 𝐇𝐔 𝐉𝐀𝐁 𝐀𝐏𝐊𝐎 𝐇𝐀𝐒𝐓𝐀 𝐇𝐔𝐘𝐄 𝐃𝐄𝐊𝐇𝐓𝐀 𝐇𝐔 ☺️", threadID);
+   if ((event.body.toLowerCase() == "@Rishika Sharma ") || (event.body.toLowerCase() == "kaise ho") || (event.body.toLowerCase() == "@Kavya Sharma") || (event.body.toLowerCase() == "kavYa") || (event.body.toLowerCase() == "RishIka")) {
+     return api.sendMessage("𝐌𝐄𝐑𝐈 𝐁𝐎𝐒𝐒 𝐊𝐎 𝐊𝐘𝐔 𝐁𝐎𝐋𝐀 𝐑𝐀𝐇𝐄 𝐇𝐎 𝐀𝐀𝐏 𝐁𝐎 𝐁𝐔𝐒𝐘 𝐇𝐎𝐆𝐈 🤐🤐", threadID);
    };
 
   if ((event.body.toLowerCase() == "🤖") || (event.body.toLowerCase() == "🤖")) {
