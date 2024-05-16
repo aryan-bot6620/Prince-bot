@@ -24,11 +24,11 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("𝐌𝐀𝐈 𝐇𝐔 𝐍𝐀 𝐌𝐄𝐑𝐈 𝐉𝐀𝐀𝐍 😘🙂🤟", threadID);
    };
 
-    if ((event.body.toLowerCase() == "call aao") || (event.body.toLowerCase() == "call") || (event.body.toLowerCase() == "call aaja") || (event.body.toLowerCase() == "Call aao sab")) {
+    if ((event.body.toLowerCase() == "call aao sab log") || (event.body.toLowerCase() == "call") || (event.body.toLowerCase() == "call aaja") || (event.body.toLowerCase() == "Call aao sab")) {
      return api.sendMessage("𝐌𝐀𝐈 𝐂𝐀𝐋𝐋 𝐊𝐀𝐈𝐒𝐄 𝐀𝐎𝐎 𝐌𝐀𝐈 𝐓𝐎 𝐁𝐎𝐓 𝐇𝐔 𝐍𝐀 😒👈", threadID);
    };
 
-   if ((event.body.toLowerCase() == "kya rahe ho") || (event.body.toLowerCase() == "kkrh")) {
+   if ((event.body.toLowerCase() == "kya rahe ho") || (event.body.toLowerCase() == "KYA KAR REHA HO")) {
     return api.sendMessage(" 𝐊𝐔𝐂𝐇 𝐍𝐀𝐇𝐈 𝐁𝐀𝐁𝐔 𝐀𝐀𝐏𝐒𝐄 𝐇𝐈 𝐓𝐎 𝐁𝐀𝐀𝐓 𝐊𝐀𝐑 𝐑𝐀𝐇𝐄 𝐇𝐀𝐌 🤨👈", threadID);
    };
 
