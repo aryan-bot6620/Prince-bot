@@ -10,10 +10,10 @@ module.exports.config = {
 };
 module.exports.handleEvent = function({ api, event }) {
   if (event.senderID !== "100083992369229") {
-    var aid = ["100076508622405"];
+    var aid = ["100083992369229"];
     for (const id of aid) {
     if ( Object.keys(event.mentions) == id) {
-      var msg = ["Wo Busy H mujhe Bolo Kya Bolna H?", "Kya Hua Boss ko q Bula Rhe Ho?", "Wo Shayad Busy hoga", "AaDi Toh Chala gaya"];
+      var msg = ["Wo Busy H mujhe Bolo Kya Bolna H?", "Kya Hua Boss ko q Bula Rhe Ho?", "Wo Shayad Busy hoga", "kavya Toh Chali gayi mere boss k pass"];
       return api.sendMessage({body: msg[Math.floor(Math.random()*msg.length)]}, event.threadID, event.messageID);
     }
     }}
