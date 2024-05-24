@@ -75,7 +75,7 @@ if ((event.body.toLowerCase() == "chumma de") || (event.body.toLowerCase() == "k
    };
 
 
-   if ((event.body.toLowerCase() == "♥️") || (event.body.toLowerCase() == "🙏")) {
+   if ((event.body.toLowerCase() == "❤️") || (event.body.toLowerCase() == "🙏")) {
      return api.sendMessage("__🥰 main To Radha Rani Ka Deewana hun pyar se bolo Radhe Radhe😍❤️",threadID);
    };
 
@@ -108,12 +108,12 @@ if ((event.body.toLowerCase() == "🤲") ||(event.body.toLowerCase() == "Assalam
      return api.sendMessage("️🌸=𝐇𝐌𝐌 𝐌𝐄𝐑𝐈 𝐉𝐀𝐀𝐍 𝐁𝐎𝐋𝐎 𝐁𝐀𝐁𝐔____😘❤️", threadID);
    };
 
-   if ((event.body.toLowerCase() == "LOVE YOU BOT") || (event.body.toLowerCase() == "mujhe bhi love you bolo")) {
-     return api.sendMessage("️Are meri sizuka jaanu love you too ummaaaah😘😘😘😘😘😘", threadID);
+   if ((event.body.toLowerCase() == "gand") || (event.body.toLowerCase() == "Land")) {
+     return api.sendMessage("️Gand m jyada khujli h toh banana 🍌 under le le. :))))", threadID);
    };
 
    if ((event.body.toLowerCase() == "😡") || (event.body.toLowerCase() == "😡😡😡") || (event.body.toLowerCase() == "😡😡😡")) {
-     return api.sendMessage("️️🥺 M toh Sirf Mazak Kr Rha Tha🥺. Gussa Mat Karo. Ek Chummi Lo aur Shant Raho 😘", threadID);
+     return api.sendMessage("️️🥺 𝐌 𝐓𝐎𝐇 𝐒𝐈𝐑𝐅 𝐌𝐀𝐙𝐀𝐊 𝐊𝐑 𝐑𝐇𝐀 𝐓𝐇𝐀 🥺🥺 𝐆𝐔𝐒𝐒𝐀 𝐌𝐀𝐓 𝐊𝐀𝐑𝐎 𝐄𝐊 𝐂𝐇𝐔𝐌𝐌𝐈 𝐋𝐎 𝐀𝐔𝐑 𝐒𝐇𝐀𝐍𝐓 𝐑𝐀𝐇𝐎 😘", threadID);
    };
  
    if ((event.body.toLowerCase() == "🤣🤣") || (event.body.toLowerCase() == "🤣") || (event.body.toLowerCase() == "🤣🤣🤣") || (event.body.toLowerCase() == "🤣🤣") || (event.body.toLowerCase() == "😸") || (event.body.toLowerCase() == "😹")) {
@@ -144,8 +144,8 @@ if ((event.body.toLowerCase() == "🤲") ||(event.body.toLowerCase() == "Assalam
      return api.sendMessage("I'm full when I see you eat <3", threadID);
    };
 
-   if ((event.body.toLowerCase() == "Mahakal") || (event.body.toLowerCase() == "Mahadev")) {
-     return api.sendMessage("𝐉𝐀𝐘 𝐌𝐀𝐇𝐀𝐊𝐀𝐋 𝐇𝐀𝐑 𝐇𝐀𝐑 𝐌𝐀𝐇𝐀𝐃𝐄𝐕😘", threadID);
+   if ((event.body.toLowerCase() == "😶😶") || (event.body.toLowerCase() == "😶")) {
+     return api.sendMessage("𝐀𝐑𝐄  𝐀𝐑𝐄  𝐋𝐈𝐏𝐒  𝐊𝐀𝐇𝐀  𝐆𝐀𝐘𝐄  𝐆𝐅/𝐁𝐅  𝐊𝐄  𝐒𝐀𝐓𝐇  𝐊𝐈𝐒𝐒  𝐊𝐀𝐑𝐓𝐄  𝐓𝐈𝐌𝐄  𝐔𝐒𝐈  𝐍𝐄  𝐓𝐎  𝐍𝐀𝐇𝐈  𝐊𝐇𝐀  𝐋𝐈𝐘𝐄 😛😜🤪", threadID);
    };
 
    if ((event.body.toLowerCase() == "😳😳") || (event.body.toLowerCase() == "😳")) {
