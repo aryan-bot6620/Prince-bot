@@ -75,7 +75,7 @@ if ((event.body.toLowerCase() == "chumma de") || (event.body.toLowerCase() == "k
    };
 
 
-   if ((event.body.toLowerCase() == "RR") || (event.body.toLowerCase() == "Radhe Radhe")) {
+   if ((event.body.toLowerCase() == "♥️") || (event.body.toLowerCase() == "🙏")) {
      return api.sendMessage("__🥰 main To Radha Rani Ka Deewana hun pyar se bolo Radhe Radhe😍❤️",threadID);
    };
 
@@ -83,12 +83,12 @@ if ((event.body.toLowerCase() == "🤲") ||(event.body.toLowerCase() == "Assalam
      return api.sendMessage("Walekum assalam", threadID);
    };
 
-  if ((event.body.toLowerCase() == "Jay Shri Ram") || (event.body.toLowerCase() == "Jai shree ram ") || (event.body.toLowerCase() == "ram")) {
+  if ((event.body.toLowerCase() == "Jay Shri Ram") || (event.body.toLowerCase() == "Jai shree ram") || (event.body.toLowerCase() == "ram")) {
     return api.sendMessage("️KATTAR HINDU HI BOLATA HAI JAY SHRI RAM JAY JAY SHRI RAM ❤️ 😇 🤸", threadID);
    };
 
-   if ((event.body.toLowerCase() == "miss u") || (event.body.toLowerCase() == " BOT MISS YOU ") || (event.body.toLowerCase() == " miss you") || (event.body.toLowerCase() == "MISS YOU")) {
-     return api.sendMessage("🌸== MISS YOU TO BABY💋😘💋😘💋😘🤸‍♂️🤗🙂", threadID);
+   if ((event.body.toLowerCase() == "😐") || (event.body.toLowerCase() == "😐😐") || (event.body.toLowerCase() == "😐😐😐") || (event.body.toLowerCase() == "😐😐😐😐")) {
+     return api.sendMessage("🌸=AISE HI CHUP CHAP BAITHO", threadID);
    };
 
   if
@@ -112,8 +112,8 @@ if ((event.body.toLowerCase() == "🤲") ||(event.body.toLowerCase() == "Assalam
      return api.sendMessage("️Are meri sizuka jaanu love you too ummaaaah😘😘😘😘😘😘", threadID);
    };
 
-   if ((event.body.toLowerCase() == "LOVE YOU") || (event.body.toLowerCase() == "love") || (event.body.toLowerCase() == "bot love you")) {
-     return api.sendMessage("️𝐋𝐎𝐕𝐄 𝐘𝐎𝐔 𝐓𝐎 𝐌𝐄𝐑𝐈 𝐂𝐔𝐓𝐄 𝐒𝐈 𝐉𝐀𝐀𝐍Love you to meri jan 🤸‍♂️😘😘😘", threadID);
+   if ((event.body.toLowerCase() == "😡") || (event.body.toLowerCase() == "😡😡😡") || (event.body.toLowerCase() == "😡😡😡")) {
+     return api.sendMessage("️️🥺 M toh Sirf Mazak Kr Rha Tha🥺. Gussa Mat Karo. Ek Chummi Lo aur Shant Raho 😘", threadID);
    };
  
    if ((event.body.toLowerCase() == "🤣🤣") || (event.body.toLowerCase() == "🤣") || (event.body.toLowerCase() == "🤣🤣🤣") || (event.body.toLowerCase() == "🤣🤣") || (event.body.toLowerCase() == "😸") || (event.body.toLowerCase() == "😹")) {
@@ -144,12 +144,12 @@ if ((event.body.toLowerCase() == "🤲") ||(event.body.toLowerCase() == "Assalam
      return api.sendMessage("I'm full when I see you eat <3", threadID);
    };
 
-   if ((event.body.toLowerCase() == "Jay Mahakal") || (event.body.toLowerCase() == "HAR HAR MAHADEV")) {
+   if ((event.body.toLowerCase() == "Mahakal") || (event.body.toLowerCase() == "Mahadev")) {
      return api.sendMessage("𝐉𝐀𝐘 𝐌𝐀𝐇𝐀𝐊𝐀𝐋 𝐇𝐀𝐑 𝐇𝐀𝐑 𝐌𝐀𝐇𝐀𝐃𝐄𝐕😘", threadID);
    };
 
-   if ((event.body.toLowerCase() == "miss you") || (event.body.toLowerCase() == "i miss you bot")) {
-     return api.sendMessage("🌸=Miss you to meri jan uummhaaa😘", threadID);
+   if ((event.body.toLowerCase() == "😳😳") || (event.body.toLowerCase() == "😳")) {
+     return api.sendMessage("️Kya huva bhoot dekh liya kya 👻👻", threadID);
    };
    mess = "{name}"
   
