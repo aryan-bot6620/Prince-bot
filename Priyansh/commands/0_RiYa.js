@@ -1,6 +1,6 @@
 const fs = require("fs");
 module.exports.config = {
-	name: "RiYa",
+	name: "pooja",
     version: "1.0.1",
 	hasPermssion: 0,
 	credits: "arif babu", 
@@ -12,7 +12,7 @@ module.exports.config = {
 
 module.exports.handleEvent = function({ api, event, client, __GLOBAL }) {
 	var { threadID, messageID } = event;
-	if (event.body.indexOf("Broken aadi")==0 || event.body.indexOf("BROKEN AADI")==0 || event.body.indexOf("@⟬ 𝗕𝗥𝗢𝗞𝗘𝗡 - 𝗔𝗔𝗗𝗜 ꪹ 爾   ⟭")==0 || event.body.indexOf("⟬ 𝗕𝗥𝗢𝗞𝗘𝗡 - 𝗔𝗔𝗗𝗜 ꪹ 爾   ⟭")==0) {
+	if (event.body.indexOf("riya")==0 || event.body.indexOf("@Riya Rajput")==0 || event.body.indexOf("Riya Rajput")==0 || event.body.indexOf("RIYA")==0) {
 		var msg = {
 				body: "𝐌𝐘 𝐂𝐔𝐓𝐄 𝐁𝐀𝐁𝐘 𝐑𝐈𝐘𝐀",
 				attachment: fs.createReadStream(__dirname + `/noprefix/dk.mp3`)
