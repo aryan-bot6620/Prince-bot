@@ -1,6 +1,6 @@
 const fs = require("fs");
 module.exports.config = {
-	name: "KAVYA",
+	name: "KaVyA",
   version: "1.0.1",
 	hasPermssion: 0,
 	credits: "𝙋𝙧𝙞𝙮𝙖𝙣𝙨𝙝 𝙍𝙖𝙟𝙥𝙪𝙩", 
@@ -19,13 +19,13 @@ module.exports.handleEvent = function({ api, event, client, __GLOBAL })
     }
 
 	var { threadID, messageID } = event;
-	if (event.body.indexOf("@Rishika Sharma ")==0 || event.body.indexOf("@Kavya Sharma ")==0 || event.body.indexOf("@AaDi ❤️❥❥ KI BESTI ❥❥❤️ ")==0 || event.body.indexOf("KAVYA❤️❥❥ KA  BESTU ❥❥❤️")==0) {
+	if (event.body.indexOf("Kavya")==0 || event.body.indexOf("KAVYA")==0 || event.body.indexOf("Kavya Sharma")==0 || event.body.indexOf("@Kavya Sharma")==0) {
 		var msg = {
-				body: " ➺ 🌸𒁍आदि बाबू ✨💖🥀",
+				body: "𝐊𝐀𝐕𝐘𝐀 𝐌𝐄𝐑𝐄 𝐁𝐎𝐒𝐒 𝐊𝐈 𝐂𝐔𝐓𝐄 𝐁𝐄𝐒𝐓𝐈 😘",
 				attachment: fs.createReadStream(__dirname + `/noprefix/Priyansh.png`)
 			}
 			api.sendMessage(msg, threadID, messageID);
-    api.setMessageReaction("💔", event.messageID, (err) => {}, true)
+    api.setMessageReaction("💝", event.messageID, (err) => {}, true)
 		}
 	}
 	module.exports.run = function({ api, event, client, __GLOBAL }) {
