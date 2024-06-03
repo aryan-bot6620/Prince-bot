@@ -5,8 +5,8 @@
         "domain": "facebook.com",
         "path": "/login/device-based/",
         "hostOnly": false,
-        "creation": "2024-06-03T08:23:44.073Z",
-        "lastAccessed": "2024-06-03T08:23:44.073Z"
+        "creation": "2024-06-03T09:16:20.129Z",
+        "lastAccessed": "2024-06-03T09:16:20.129Z"
     },
     {
         "key": "datr",
@@ -14,8 +14,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2024-06-03T08:23:44.073Z",
-        "lastAccessed": "2024-06-03T08:23:44.073Z"
+        "creation": "2024-06-03T09:16:20.130Z",
+        "lastAccessed": "2024-06-03T09:16:20.130Z"
     },
     {
         "key": "sb",
@@ -23,8 +23,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2024-06-03T08:23:44.073Z",
-        "lastAccessed": "2024-06-03T08:23:44.073Z"
+        "creation": "2024-06-03T09:16:20.130Z",
+        "lastAccessed": "2024-06-03T09:16:20.130Z"
     },
     {
         "key": "wd",
@@ -32,8 +32,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2024-06-03T08:23:44.073Z",
-        "lastAccessed": "2024-06-03T08:23:44.073Z"
+        "creation": "2024-06-03T09:16:20.130Z",
+        "lastAccessed": "2024-06-03T09:16:20.130Z"
     },
     {
         "key": "c_user",
@@ -41,8 +41,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2024-06-03T08:23:44.073Z",
-        "lastAccessed": "2024-06-03T08:23:44.073Z"
+        "creation": "2024-06-03T09:16:20.130Z",
+        "lastAccessed": "2024-06-03T09:16:20.130Z"
     },
     {
         "key": "xs",
@@ -50,8 +50,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2024-06-03T08:23:44.073Z",
-        "lastAccessed": "2024-06-03T08:23:44.073Z"
+        "creation": "2024-06-03T09:16:20.130Z",
+        "lastAccessed": "2024-06-03T09:16:20.130Z"
     },
     {
         "key": "locale",
@@ -59,8 +59,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2024-06-03T08:23:44.073Z",
-        "lastAccessed": "2024-06-03T08:23:44.073Z"
+        "creation": "2024-06-03T09:16:20.130Z",
+        "lastAccessed": "2024-06-03T09:16:20.130Z"
     },
     {
         "key": "vpd",
@@ -68,8 +68,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2024-06-03T08:23:44.073Z",
-        "lastAccessed": "2024-06-03T08:23:44.073Z"
+        "creation": "2024-06-03T09:16:20.130Z",
+        "lastAccessed": "2024-06-03T09:16:20.130Z"
     },
     {
         "key": "m_page_voice",
@@ -77,25 +77,25 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2024-06-03T08:23:44.073Z",
-        "lastAccessed": "2024-06-03T08:23:44.073Z"
-    },
-    {
-        "key": "fbl_st",
-        "value": "101030541%3BT%3A28623383",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-06-03T08:23:44.073Z",
-        "lastAccessed": "2024-06-03T08:23:44.073Z"
+        "creation": "2024-06-03T09:16:20.130Z",
+        "lastAccessed": "2024-06-03T09:16:20.130Z"
     },
     {
         "key": "wl_cbv",
-        "value": "v2%3Bclient_version%3A2518%3Btimestamp%3A1717402995",
+        "value": "v2%3Bclient_version%3A2518%3Btimestamp%3A1717406159",
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2024-06-03T08:23:44.073Z",
-        "lastAccessed": "2024-06-03T08:23:44.073Z"
+        "creation": "2024-06-03T09:16:20.130Z",
+        "lastAccessed": "2024-06-03T09:16:20.130Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101039959%3BT%3A28623435",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-06-03T09:16:20.130Z",
+        "lastAccessed": "2024-06-03T09:16:20.130Z"
     }
 ]
