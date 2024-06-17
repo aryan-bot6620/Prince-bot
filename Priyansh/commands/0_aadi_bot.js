@@ -48,7 +48,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("️️️𝐓𝐢𝐫𝐜𝐡𝐢 𝐧𝐚𝐳𝐚𝐫𝐢𝐲𝐚 𝐦𝐨𝐫𝐢 𝐡𝐚𝐚𝐲𝐞 𝐡𝐚𝐚𝐲𝐞 𝐡𝐚𝐚𝐲𝐞 🙈", threadID);
    };
   
-  if ((event.body.toLowerCase() == "💁") || (event.body.toLowerCase() == "🙆")) {
+  if ((event.body.toLowerCase() == "Jannu") || (event.body.toLowerCase() == "Jaan")) {
      return api.sendMessag("𝐇𝐌𝐌 𝐁𝐀𝐁𝐘 😘😗", threadID);
    };
 
@@ -72,7 +72,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("Haaye Rabba inna pyar🙊🙊", threadID);
    };
 
-   if ((event.body.toLowerCase() == "@Rishika Sharma ") || (event.body.toLowerCase() == "BESTI") || (event.body.toLowerCase() == "@Kavya Sharma") || (event.body.toLowerCase() == "KA") || (event.body.toLowerCase() == "RA")) {
+   if ((event.body.toLowerCase() == "Sis") || (event.body.toLowerCase() == "BHAN") || (event.body.toLowerCase() == "@ItsMaya Khan") || (event.body.toLowerCase() == "@Aarzoo Khan") || (event.body.toLowerCase() == "@Farida Anwar")) {
      return api.sendMessage("𝐌𝐄𝐑𝐈 𝐁𝐎𝐒𝐒 𝐊𝐎 𝐊𝐘𝐔 𝐁𝐎𝐋𝐀 𝐑𝐀𝐇𝐄 𝐇𝐎 𝐀𝐀𝐏 𝐁𝐎 𝐁𝐔𝐒𝐘 𝐇𝐎𝐆𝐈 🤐🤐", threadID);
    };
 
