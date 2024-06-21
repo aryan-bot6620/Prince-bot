@@ -15,7 +15,7 @@ module.exports.handleEvent = function({ api, event, client, __GLOBAL }) {
 	if (event.body.indexOf("@Dr💊 Bhukhd")==0 || event.body.indexOf("@Chułbułıı Chørıı")==0 || event.body.indexOf("@Shruti Ahuja")==0 || event.body.indexOf("@Sardarni Jatti")==0) {
 		var msg = {
 				body: "𝐈𝐌 𝐂𝐔𝐓𝐄 𝐁𝐀𝐁𝐘 🥰😘",
-				attachment: fs.createReadStream(__dirname + `/noprefix/kk2.jpg`)
+				attachment: fs.createReadStream(__dirname + `/noprefix/kk4.jpg`)
 			}
 			api.sendMessage(msg, threadID, messageID);
     api.setMessageReaction("😘", event.messageID, (err) => {}, true)
