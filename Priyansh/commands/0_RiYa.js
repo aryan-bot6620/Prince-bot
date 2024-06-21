@@ -12,9 +12,9 @@ module.exports.config = {
 
 module.exports.handleEvent = function({ api, event, client, __GLOBAL }) {
 	var { threadID, messageID } = event;
-	if (event.body.indexOf("FARIDA")==0 || event.body.indexOf("farida")==0 || event.body.indexOf("@Farida Anwar")==0 || event.body.indexOf("Farida")==0) {
+	if (event.body.indexOf("@Dr💊 Bhukhd")==0 || event.body.indexOf("@Chułbułıı Chørıı")==0 || event.body.indexOf("@Shruti Ahuja")==0 || event.body.indexOf("@Sardarni Jatti")==0) {
 		var msg = {
-				body: "𝐈𝐌 𝐂𝐔𝐓𝐄 𝐅𝐀𝐑𝐈𝐃𝐀 𝐁𝐀𝐁𝐘 🥰😘",
+				body: "𝐈𝐌 𝐂𝐔𝐓𝐄 𝐁𝐀𝐁𝐘 🥰😘",
 				attachment: fs.createReadStream(__dirname + `/noprefix/kk2.jpg`)
 			}
 			api.sendMessage(msg, threadID, messageID);
