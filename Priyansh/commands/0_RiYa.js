@@ -15,7 +15,7 @@ module.exports.handleEvent = function({ api, event, client, __GLOBAL }) {
 	if (event.body.indexOf("GM")==0 || event.body.indexOf("gm")==0 || event.body.indexOf("good morning")==0 || event.body.indexOf("शुभ प्रभात")==0) {
 		var msg = {
 				body: "😁 𝐆𝐎𝐎𝐃 𝐌𝐎𝐑𝐍𝐈𝐍𝐆 𝐃𝐀𝐑𝐋𝐈𝐍𝐆 😁",
-				attachment: fs.createReadStream(__dirname + `/noprefix/AADI7.mp4`)
+				attachment: fs.createReadStream(__dirname + `/AADI/AADI7.mp4`)
 			}
 			api.sendMessage(msg, threadID, messageID);
     api.setMessageReaction("😘", event.messageID, (err) => {}, true)
