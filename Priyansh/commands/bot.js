@@ -97,7 +97,7 @@ if ((event.body.toLowerCase() == "🤲") ||(event.body.toLowerCase() == "Assalam
    };
 
    if ((event.body.toLowerCase() == "😋😋") || (event.body.toLowerCase() == "😋😋😋") || (event.body.toLowerCase() == "😋")) {
-     return api.sendMessage("️𝐌𝐄𝐑𝐀 𝐁𝐀𝐁𝐘 𝐀𝐉𝐉 𝐊𝐘𝐀 𝐊𝐇𝐀 𝐋𝐈𝐘𝐀 𝐂𝐇𝐀𝐋𝐎 𝐌𝐀𝐈𝐍 𝐀𝐏𝐏𝐍𝐄 𝐇𝐀𝐓𝐇𝐎 𝐒𝐄 --- 𝐆𝐎𝐋𝐀𝐆𝐏𝐏𝐄 𝐊𝐇𝐀𝐋𝐀𝐎 𝐋𝐈𝐊𝐇𝐎 👉  GOLAGPPE 👈😋😋", threadID);
+     return api.sendMessage("️𝐌𝐄𝐑𝐀 𝐁𝐀𝐁𝐘 𝐀𝐉𝐉 𝐊𝐘𝐀 𝐊𝐇𝐀 𝐋𝐈𝐘𝐀 𝐂𝐇𝐀𝐋𝐎 𝐌𝐀𝐈𝐍 𝐀𝐏𝐏𝐍𝐄 𝐇𝐀𝐓𝐇𝐎 𝐒𝐄 --- 𝐆𝐎𝐋𝐀𝐆𝐏𝐏𝐄 𝐊𝐇𝐀𝐋𝐀𝐎 𝐋𝐈𝐊𝐇𝐎 👉  PANI PURI 👈😋😋", threadID);
    };
 
    if ((event.body.toLowerCase() == "😝") || (event.body.toLowerCase() == "😝😝")) {
