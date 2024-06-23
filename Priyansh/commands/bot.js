@@ -25,7 +25,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("🌸=𝐆𝐎𝐎𝐃__𝐍𝐈𝐆𝐇𝐓___😘 𝐒𝐎𝐍𝐄 𝐒𝐄 𝐏𝐀𝐇𝐋𝐄 𝐌𝐄𝐑𝐀 𝐍𝐀𝐀𝐌 𝐋𝐄 𝐋𝐀𝐍𝐀 𝐁𝐇𝐎𝐎𝐓 𝐍𝐀𝐇𝐈 𝐀𝐀𝐄𝐆𝐀_____ 😂:))", threadID);
    };
 
-    if ((event.body.toLowerCase() == "IB AO") || (event.body.toLowerCase() == "ID AOO")) {
+    if ((event.body.toLowerCase() == "IB AO") || (event.body.toLowerCase() == "inbox ao")) {
      return api.sendMessage("𝐏𝐀𝐆𝐀𝐋 𝐇𝐎 𝐊𝐘𝐀 𝐁𝐀𝐁𝐔 🤣🤣🤸", threadID);
    };
   
@@ -48,8 +48,8 @@ if ((event.body.toLowerCase() == "chumma de") || (event.body.toLowerCase() == "k
    };
 
   
-   if ((event.body.toLowerCase() == "good morning") || (event.body.toLowerCase() == "good morning Meri Jaan")) {
-     return api.sendMessage("🌸= good morning Meri Jaan radhe radhe ❤️🤸", threadID);
+   if ((event.body.toLowerCase() == "MAIN AA GAYA") || (event.body.toLowerCase() == "I'm coming")) {
+     return api.sendMessage("all𝐀𝐋𝐋 𝐂𝐇𝐀𝐊 𝐌𝐀𝐈𝐍 𝐀𝐀 𝐆𝐀𝐘𝐀 😆😆", threadID);
    };
 
    if ((event.body.toLowerCase() == "kya kr rahe ho") || (event.body.toLowerCase() == "KYA KR RAHE HO") || (event.body.toLowerCase() == "kya kar rahe ho") || (event.body.toLowerCase() == "Kya kar raha hai bot")) {
@@ -96,8 +96,8 @@ if ((event.body.toLowerCase() == "🤲") ||(event.body.toLowerCase() == "Assalam
      return api.sendMessage("️=𝐌𝐄𝐑𝐀 𝐓𝐎 𝐇𝐎 𝐆𝐀𝐘𝐀 𝐁𝐀𝐁𝐔 𝐀𝐀𝐏𝐊𝐀 𝐇𝐔𝐀____🙈🤸‍♂️", threadID);
    };
 
-   if ((event.body.toLowerCase() == "gm") || (event.body.toLowerCase() == "good morning") || (event.body.toLowerCase() == "Good morning")) {
-     return api.sendMessage("️❤️==V.GM_❤️AND-JAY_MAHAKAL🙏 🙏🧡 Radhe Radhe", threadID);
+   if ((event.body.toLowerCase() == "😋😋") || (event.body.toLowerCase() == "😋😋😋") || (event.body.toLowerCase() == "😋")) {
+     return api.sendMessage("️𝐌𝐄𝐑𝐀 𝐁𝐀𝐁𝐘 𝐀𝐉𝐉 𝐊𝐘𝐀 𝐊𝐇𝐀 𝐋𝐈𝐘𝐀 𝐂𝐇𝐀𝐋𝐎 𝐌𝐀𝐈𝐍 𝐀𝐏𝐏𝐍𝐄 𝐇𝐀𝐓𝐇𝐎 𝐒𝐄 --- 𝐆𝐎𝐋𝐀𝐆𝐏𝐏𝐄 𝐊𝐇𝐀𝐋𝐀𝐎 𝐋𝐈𝐊𝐇𝐎 👉  GOLAGPPE 👈😋😋", threadID);
    };
 
    if ((event.body.toLowerCase() == "😝") || (event.body.toLowerCase() == "😝😝")) {
@@ -121,7 +121,7 @@ if ((event.body.toLowerCase() == "🤲") ||(event.body.toLowerCase() == "Assalam
    };
 
    if ((event.body.toLowerCase() == "🔥") || (event.body.toLowerCase() == "🔥🔥") || (event.body.toLowerCase() == "🔥🔥🔥") || (event.body.toLowerCase() == "🔥🔥🔥🔥")) {
-     return api.sendMessage("𝐌𝐄𝐑𝐄 𝐁𝐎𝐒𝐒 𝐀𝐀𝐃𝐈 𝐁𝐀𝐁𝐔 𝐀𝐀𝐏 𝐀𝐀 𝐆𝐀𝐘", threadID);
+     return api.sendMessage("𝐀𝐀𝐆 𝐋𝐀𝐆𝐀 𝐃𝐈 𝐈𝐒𝐍𝐄 𝐆𝐑𝐎𝐔𝐏 𝐌𝐀𝐈𝐍 𝐁𝐇𝐀𝐆𝐎 😆 😁 🤣", threadID);
    };
 
    if ((event.body.toLowerCase() == "kese ho") || (event.body.toLowerCase() == "kaise ho") || (event.body.toLowerCase() == "kese ho ji") || (event.body.toLowerCase() == "how are you") || (event.body.toLowerCase() == "how are you?")) {
@@ -149,7 +149,7 @@ if ((event.body.toLowerCase() == "🤲") ||(event.body.toLowerCase() == "Assalam
    };
 
    if ((event.body.toLowerCase() == "😳😳") || (event.body.toLowerCase() == "😳")) {
-     return api.sendMessage("️Kya huva bhoot dekh liya kya 👻👻", threadID);
+     return api.sendMessage("️𝐊𝐘𝐀 𝐇𝐔𝐀 𝐁𝐇𝐎𝐎𝐓 𝐃𝐄𝐊𝐇 𝐋𝐈𝐘𝐀 𝐊𝐘𝐀 👻 👻", threadID);
    };
    mess = "{name}"
   
