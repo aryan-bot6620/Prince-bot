@@ -15,15 +15,15 @@ module.exports.config = {
 module.exports.handleEvent = function({ api, event, client, __GLOBAL }) {
 	var { threadID, messageID } = event;
 	let react = event.body.toLowerCase();
-	if(react.includes("Miss") ||
-     react.includes("I miss") || react.includes("miSS") || react.includes("miSs") ||
-react.includes("miss") ||
-react.includes("Miss")) {
+	if(react.includes("RADHE") ||
+     react.includes("radhe") || react.includes("radhe radhe") || react.includes("Krishna") ||
+react.includes("SHYAM") ||
+react.includes("RADHE RADHE")) {
 		var msg = {
-				body: `‌𝑰 𝑴𝑰𝑺𝑺 𝒀𝑶𝑼 𝑻𝑶𝑶 𝑱𝑨𝑨𝑵 😌🤘`,attachment: fs.createReadStream(__dirname + `/AADI/missyou.gif`)
+				body: `‌🙏 राधे राधे 🙏`,attachment: fs.createReadStream(__dirname + `/AADI/AADI.mp4`)
 			}
 			api.sendMessage(msg, threadID, messageID);
-    api.setMessageReaction("😘", event.messageID, (err) => {}, true)
+    api.setMessageReaction("🙏", event.messageID, (err) => {}, true)
 		}
 	}
 	module.exports.run = function({ api, event, client, __GLOBAL }) {
