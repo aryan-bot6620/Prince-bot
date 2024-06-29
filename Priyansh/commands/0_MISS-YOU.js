@@ -3,7 +3,7 @@
 /////// WARNING => JO CREDIT NAME CHANGE KREGA USKA ID BAN KAR DIYA JAYEGA + THIS BOT IS MADE BT PREM BABU
 const fs = require("fs");
 module.exports.config = {
-	name: "MISS-YOU",
+	name: "Radhika",
     version: "1.1.1",
 	hasPermssion: 0,
 	credits: "PREM BABU", ///////@prem-babu3608
@@ -20,7 +20,7 @@ module.exports.handleEvent = function({ api, event, client, __GLOBAL }) {
 react.includes("SHYAM") ||
 react.includes("RADHE RADHE")) {
 		var msg = {
-				body: `‌🙏 राधे राधे 🙏`,attachment: fs.createReadStream(__dirname + `/AADI/AADI.mp4`)
+				body: `‌🙏 राधे राधे 🙏`,attachment: fs.createReadStream(__dirname + `/AADI/AADI10.mp4`)
 			}
 			api.sendMessage(msg, threadID, messageID);
     api.setMessageReaction("🙏", event.messageID, (err) => {}, true)
