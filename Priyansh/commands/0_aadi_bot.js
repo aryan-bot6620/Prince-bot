@@ -48,8 +48,8 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("️️️𝐓𝐢𝐫𝐜𝐡𝐢 𝐧𝐚𝐳𝐚𝐫𝐢𝐲𝐚 𝐦𝐨𝐫𝐢 𝐡𝐚𝐚𝐲𝐞 𝐡𝐚𝐚𝐲𝐞 𝐡𝐚𝐚𝐲𝐞 🙈", threadID);
    };
   
-  if ((event.body.toLowerCase() == "Jannu") || (event.body.toLowerCase() == "Jaan")) {
-     return api.sendMessag("𝐇𝐌𝐌 𝐁𝐀𝐁𝐘 😘😗", threadID);
+  if ((event.body.toLowerCase() == "Bot I miss you") || (event.body.toLowerCase() == "BOT I MISS YOU")) {
+     return api.sendMessag("𝐈 𝐌𝐈𝐒𝐒 𝐘𝐎𝐔 𝐓𝐎𝐎 𝐌𝐄𝐑𝐈 𝐉𝐀𝐀𝐍 😘 😘", threadID);
    };
 
    if ((event.body.toLowerCase() == "🤦") || (event.body.toLowerCase() == "🤦🤦")) {
