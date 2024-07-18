@@ -19,7 +19,7 @@ react.includes("biwi") ||
 react.includes("Biwi") ||     
 react.includes("Gf")) {
     var msg = {
-        body: `${name} lO GF HAJIR HAI JAAN😂👈`,attachment: fs.createReadStream(__dirname + `/noprefix/gf.jpg`)
+        body: `${name} lO GF HAJIR HAI JAANB😂👈`,attachment: fs.createReadStream(__dirname + `/noprefix/gf.jpg`)
       }
       api.sendMessage(msg, threadID, messageID);
     api.setMessageReaction("😂", event.messageID, (err) => {}, true)
